@@ -1,16 +1,20 @@
-### Hi there 👋
+![Mecatronics || Automatic & IT industrial](https://github.com/Chaima-Jabri/Chaima-Jabri/blob/main/Jaune%20et%20Noir%20Global%20R%C3%A9ponse%20Ing%C3%A9nieur%20LinkedIn%20Banni%C3%A8re.png)  
 
-<!--
-**Chaima-Jabri/Chaima-Jabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Chaima Jabri
 
-Here are some ideas to get you started:
+I'm chaima jabri from Tunisia, I specialize in the development of intelligent and miniaturized systems. I really enjoy learning new skills. You can find here my projects also you can check out my LinkdIn profil below . 
+                   
+                   “Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke  
+                   
+# Skills & Experiences
+* 📐 Solidworks & Catia V5
+* 📊 Matlab & Labview
+* 👩‍💻 C/C++, Python
+* 🔌 Arduino, Raspberry pi and Stm32
+* ⚛ REACT, JS, HTML, CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: jabrichaima1@gmail.com    
+
+ 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chaimajb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chaima-jabri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/chaimajb)  
+
